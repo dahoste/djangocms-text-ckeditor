@@ -26,6 +26,7 @@ var CKBUILDER_CONFIG = {
 	plugins : {
 		'about' : 1,
 		'a11yhelp' : 1,
+		'autosave' : 1,
 		'dialogadvtab' : 1,
 		'basicstyles' : 1,
 		'bidi' : 1,
